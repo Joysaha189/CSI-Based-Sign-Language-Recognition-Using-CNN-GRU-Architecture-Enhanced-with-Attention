@@ -22,7 +22,7 @@ The project was completed for **IECE 566: Deep Learning (Fall 2025)** at the **U
 
 
 
-\###### \*\*📌 Project Overview\*\*
+###### **📌 Project Overview**
 
 
 
@@ -42,7 +42,7 @@ CSI captures amplitude and phase variations across subcarriers and antennas, pro
 
 
 
-\*\*The study includes:\*\*
+**The study includes:**
 
 
 
@@ -65,7 +65,7 @@ CSI captures amplitude and phase variations across subcarriers and antennas, pro
 
 
 
-\###### 📁 Repository Structure
+###### 📁 Repository Structure
 
 
 
@@ -175,7 +175,7 @@ CSI captures amplitude and phase variations across subcarriers and antennas, pro
 
 
 
-\###### \*\*🧠 Problem Formulation\*\*
+###### **🧠 Problem Formulation**
 
 
 
@@ -227,7 +227,7 @@ While first-order methods rely only on gradient statistics, Ada-Hessian precondi
 
 
 
-\###### ⚙️ Methodology
+###### ⚙️ Methodology
 
 
 
@@ -235,7 +235,7 @@ While first-order methods rely only on gradient statistics, Ada-Hessian precondi
 
 
 
-\*\*Key Components\*\*
+**Key Components**
 
 
 
@@ -253,7 +253,7 @@ While first-order methods rely only on gradient statistics, Ada-Hessian precondi
 
 
 
-\*\*Neural Network Architecture\*\*
+**Neural Network Architecture**
 
 
 
@@ -261,7 +261,7 @@ While first-order methods rely only on gradient statistics, Ada-Hessian precondi
 
 
 
-!\[cnn](Images/cnn.png)
+![cnn](Images/cnn.png)
 
 
 
@@ -341,7 +341,7 @@ CSI Datasets
 
 
 
-\*\*Training Configuration\*\*
+**Training Configuration**
 
 
 
@@ -366,11 +366,11 @@ CSI Datasets
 
 
 
-\###### 
 
 
 
-\###### \*\*📈 Results Summary\*\*
+
+###### **📈 Results Summary**
 
 
 
@@ -387,7 +387,7 @@ CSI Datasets
 
 
 
-!\[results](Images/results.png)
+![results](Images/results.png)
 
 
 
@@ -411,7 +411,7 @@ Detailed results for all configurations  are available effect to attention head,
 
 
 
-\###### \*\*✅ Conclusions\*\*
+###### **✅ Conclusions**
 
 
 
@@ -429,7 +429,7 @@ Detailed results for all configurations  are available effect to attention head,
 
 
 
-\###### 📚 References
+###### 📚 References
 
 
 
@@ -445,11 +445,11 @@ Detailed results for all configurations  are available effect to attention head,
 
 
 
-2\\. Zhewei Yao, Amir Gholami, Sheng Shen, Kurt Keutzer, and Michael W. Mahoney. Adahessian: An adaptive second order optimizer for machine learning. AAAI (Accepted), 2021.
+2\. Zhewei Yao, Amir Gholami, Sheng Shen, Kurt Keutzer, and Michael W. Mahoney. Adahessian: An adaptive second order optimizer for machine learning. AAAI (Accepted), 2021.
 
 
 
-3\\. T. F. Sanam and H. Godrich, "FuseLoc: A CCA Based Information Fusion for Indoor Localization Using CSI Phase and Amplitude of Wifi Signals," ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, 2019, pp. 7565-7569, doi: 10.1109/ICASSP.2019.8683316. 
+3\. T. F. Sanam and H. Godrich, "FuseLoc: A CCA Based Information Fusion for Indoor Localization Using CSI Phase and Amplitude of Wifi Signals," ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, 2019, pp. 7565-7569, doi: 10.1109/ICASSP.2019.8683316. 
 
 
 
@@ -457,7 +457,7 @@ Detailed results for all configurations  are available effect to attention head,
 
 
 
-\###### \*\*Project Status\*\*
+###### **Project Status**
 
 
 
@@ -501,7 +501,7 @@ Detailed results for all configurations  are available effect to attention head,
 
 
 
-\###### \*\*Acknowledgements\*\*
+###### **Acknowledgements**
 
 
 
@@ -557,7 +557,7 @@ I am also grateful to Dr. Sourabh Sihag for his valuable guidance and feedback t
 
 
 
-\###### \*\*Author\*\*
+###### **Author**
 
 
 
@@ -573,7 +573,7 @@ I am also grateful to Dr. Sourabh Sihag for his valuable guidance and feedback t
 
 
 
-\*\*Joy Saha\*\*
+**Joy Saha**
 
 
 
@@ -609,7 +609,7 @@ University at Albany, SUNY
 
 
 
-\###### \*\*License\*\*
+###### **License**
 
 
 
