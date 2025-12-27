@@ -207,7 +207,6 @@ $$
 
 
 
-!\[adhessian](Images/trajectory.png)
 
 
 
@@ -261,7 +260,7 @@ While first-order methods rely only on gradient statistics, Ada-Hessian precondi
 
 
 
-![cnn](Images/cnn.png)
+![cnn](Results/model.png)
 
 
 
@@ -387,7 +386,7 @@ CSI Datasets
 
 
 
-![results](Images/results.png)
+![results](Results/baselines-comp.png)
 
 
 
@@ -443,13 +442,7 @@ Detailed results for all configurations  are available effect to attention head,
 
 
 
-
-
-2\. Zhewei Yao, Amir Gholami, Sheng Shen, Kurt Keutzer, and Michael W. Mahoney. Adahessian: An adaptive second order optimizer for machine learning. AAAI (Accepted), 2021.
-
-
-
-3\. T. F. Sanam and H. Godrich, "FuseLoc: A CCA Based Information Fusion for Indoor Localization Using CSI Phase and Amplitude of Wifi Signals," ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, 2019, pp. 7565-7569, doi: 10.1109/ICASSP.2019.8683316. 
+2\. T. F. Sanam and H. Godrich, "FuseLoc: A CCA Based Information Fusion for Indoor Localization Using CSI Phase and Amplitude of Wifi Signals," ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, 2019, pp. 7565-7569, doi: 10.1109/ICASSP.2019.8683316. 
 
 
 
