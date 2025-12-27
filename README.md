@@ -183,7 +183,7 @@ CSI captures amplitude and phase variations across subcarriers and antennas, pro
 
 
 
-The learning objective is to minimize a non-convex empirical risk function:
+The objective is to learn a mapping from CSI tensors to gesture labels by minimizing a multi-class cross-entropy loss:
 
 
 
@@ -214,10 +214,10 @@ $$
 
 
 
-While first-order methods rely only on gradient statistics, Ada-Hessian preconditions gradients using an approximate inverse Hessian, enabling curvature-aware updates that adapt to the geometry of the loss surface.
+where each CSI sample $x_i$ is a tensor of shape (200 × 60 × 3) capturing temporal evolution, subcarrier variation, and multi-antenna spatial patterns.
 
-
-
+![simple](Results/simple-classifiers.png)
+CSI data is inherently noisy and high-dimensional, making joint spatial–temporal modeling essential for accurate gesture recognition.
 
 
 
@@ -506,7 +506,7 @@ Detailed results for all configurations  are available effect to attention head,
 
 
 
-The initial components of this project, including CSI data preprocessing and baseline pipeline development, were carried out during my undergraduate research. Details of that work can be found at \[here](https://github.com/Joysaha189/Implementation-Friendly-CNN-For-Sign-Language-Recognition-Using-Wi-Fi-CSI-Data).
+The initial components of this project, including CSI data preprocessing and baseline pipeline development, were carried out during my undergraduate research. Details of that work can be found at [here](https://github.com/Joysaha189/Implementation-Friendly-CNN-For-Sign-Language-Recognition-Using-Wi-Fi-CSI-Data).
 
 
 
