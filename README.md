@@ -73,8 +73,8 @@ CSI captures amplitude and phase variations across subcarriers and antennas, pro
 
 The objective is to learn a mapping from CSI tensors to gesture labels by minimizing a **multi-class cross-entropy loss**:
 
-$\
-\min_{\theta} L(\theta) = \frac{1}{N} \sum_{i=1}^{N} \ell(x_i, y_i; \theta)\
+$
+\min_{\theta} L(\theta) = \frac{1}{N} \sum_{i=1}^{N} \ell(x_i, y_i; \theta)
 $
 
 Where each CSI sample $\(x_i\)$ is a tensor of shape **(200 × 60 × 3)** capturing temporal evolution, subcarrier variation, and multi-antenna spatial patterns.
